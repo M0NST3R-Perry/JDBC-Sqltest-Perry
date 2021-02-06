@@ -5,7 +5,7 @@ public class SqlPractice001 {
 
    public static void main(String[] args) {
 	    final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
-	    final String DB_URL ="jdbc:mysql://localhost:8080/BoardGameProject_Test/HomePage.jsp";
+	    final String DB_URL ="jdbc:mysql://localhost:3306/testp";
 	    final String USER ="root";
 	    final String PASS ="MCU04132462Wu";
 	    Connection conn = null;
